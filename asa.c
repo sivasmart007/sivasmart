@@ -9,6 +9,6 @@ int main()
     m=min%60;
    printf( "the hour is %d\n the min is%d",h,m);
    
-    
+}
     return 0;
 }
